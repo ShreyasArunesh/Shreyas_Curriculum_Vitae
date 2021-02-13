@@ -1,3 +1,3 @@
-![](Page1.png width = "20")
+![](Page1.png)
 
 ![](Page2.png)
